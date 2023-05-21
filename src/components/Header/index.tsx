@@ -28,6 +28,7 @@ const Header = () => {
 export default Header;
 
 const HeaderContainer = styled.div`
+  width: 100vw;
 `
 
 const SpanButtons = styled.div`
